@@ -3,16 +3,16 @@
 
 ## 🔬 Research Areas
 
-- **Program Analysis & Verification**: 
+- **Program Analysis & Verification**
 - **Program Synthessis & Optimizations**
 - **Logic and Automated Reasoning**
-- **Software Security**
+- **Software & System Security**
 
 ## 🛠️ Open-Source Projects
 
 - **[lotus](https://github.com/ZJU-Automated-Reasoning-Group/lotus)** ⭐ 22 - Program analysis and verification framework
 - **[arlib](https://github.com/ZJU-Automated-Reasoning-Group/arlib)** ⭐ 11 - Automated reasoning library
-- **[efmc](https://github.com/ZJU-Automated-Reasoning-Group/efmc)** ⭐ 5 - Software model checking
+- **[efmc](https://github.com/ZJU-Automated-Reasoning-Group/efmc)** ⭐ 5 - Software model checker
 - **[smtfuzz](https://github.com/ZJU-Automated-Reasoning-Group/smtfuzz)** ⭐ 19 - Fuzzer for SMT solvers
 
 
@@ -23,7 +23,7 @@
 - **程序分析与验证**
 - **程序合成与优化**
 - **逻辑与自动推理**
-- **软件安全**
+- **软件与系统安全**
 
 ## 🛠️ 开源项目
 

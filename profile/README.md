@@ -13,7 +13,7 @@
 - **[smtfuzz](https://github.com/ZJU-Automated-Reasoning-Group/smtfuzz)** ⭐ 19 - Fuzzer for SMT solvers
 
 
-# 浙江大学程序语言与自动推理研究组
+-----------------------------
 
 ## 🔬 研究方向
 

@@ -1,6 +1,3 @@
-# ZJU Programming Languages and Automated Reasoning Group
-
-
 ## 🔬 Research Areas
 
 - **Program Analysis & Verification**

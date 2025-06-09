@@ -2,7 +2,7 @@
 
 - **Program Analysis & Verification**
 - **Program Synthessis & Optimizations**
-- **Logic and Automated Reasoning**
+- **Logic & Automated Reasoning**
 - **Software & System Security**
 
 ## 🛠️ Open-Source Projects

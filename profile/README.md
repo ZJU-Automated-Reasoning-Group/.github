@@ -7,11 +7,11 @@
 
 ## 🛠️ Open-Source Projects
 
-- **[lotus](https://github.com/ZJU-Automated-Reasoning-Group/lotus)**  - Program analysis and verification framework
+- **[lotus](https://github.com/ZJU-Automated-Reasoning-Group/lotus)**  - A program analysis and verification framework
 - **[arlib](https://github.com/ZJU-Automated-Reasoning-Group/arlib)**  - A library for automated reasoning 
-- **[efmc](https://github.com/ZJU-Automated-Reasoning-Group/efmc)**    - SMT-based software model checker
-- **[RepoAudit++](https://github.com/ZJU-Automated-Reasoning-Group/RepoAudit)** - Neurol-symbolic code auditor
-- **[smtfuzz](https://github.com/ZJU-Automated-Reasoning-Group/smtfuzz)**  - Fuzzer for SMT solvers
+- **[efmc](https://github.com/ZJU-Automated-Reasoning-Group/efmc)**    - An SMT-based software model checker
+- **[RepoAudit++](https://github.com/ZJU-Automated-Reasoning-Group/RepoAudit)** - A neurol-symbolic code auditor
+- **[smtfuzz](https://github.com/ZJU-Automated-Reasoning-Group/smtfuzz)**  - A fuzzer for SMT solvers
 
 
 -----------------------------

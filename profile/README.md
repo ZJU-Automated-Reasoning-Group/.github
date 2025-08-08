@@ -8,7 +8,7 @@
 ## 🛠️ Open-Source Projects
 
 - **[lotus](https://github.com/ZJU-Automated-Reasoning-Group/lotus)**  - A program analysis and verification framework
-- **[cactus](https://github.com/ZJU-Automated-Reasoning-Group/cactus)**  - A alias and taint analysis tool for C/C++
+- **[cactus](https://github.com/ZJU-Automated-Reasoning-Group/cactus)**  - An alias and taint analysis tool for C/C++
 - **[arlib](https://github.com/ZJU-Automated-Reasoning-Group/arlib)**  - A library for automated reasoning 
 - **[efmc](https://github.com/ZJU-Automated-Reasoning-Group/efmc)**    - An SMT-based software model checker
 - **[RepoAudit++](https://github.com/ZJU-Automated-Reasoning-Group/RepoAudit)** - A neurol-symbolic code auditor

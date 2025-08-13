@@ -3,7 +3,7 @@
 - **Program Analysis & Verification**
 - **Program Synthessis & Optimizations**
 - **Logic & Automated Reasoning**
-- 
+  
 ## 🛠️ Open-Source Projects
 
 - **[lotus](https://github.com/ZJU-Automated-Reasoning-Group/lotus)**  - A program analysis and verification framework

@@ -12,7 +12,6 @@
 - **[RepoAudit++](https://github.com/ZJU-Automated-Reasoning-Group/RepoAudit)** - LLM-driven repol-level code auditor
 - **[secgen](https://github.com/ZJU-Automated-Reasoning-Group/secgen)** -- Neural-symbolic security vulnerability scanner
 - **[pafuzz](https://github.com/ZJU-Automated-Reasoning-Group/pafuzz)**  -- Fuzzer for static analyzers
-- **[smtfuzz](https://github.com/ZJU-Automated-Reasoning-Group/smtfuzz)**  - Fuzzer for SMT solvers
     <hr style="margin: 4px 0;">
 - **[arlib](https://github.com/ZJU-Automated-Reasoning-Group/arlib)**  - Library for automated reasoning
 - **[pyomt](https://github.com/ZJU-Automated-Reasoning-Group/pyomt)** - Library for Optimization Modulo Tehoeires
@@ -35,7 +34,6 @@
 - **[RepoAudit++](https://github.com/ZJU-Automated-Reasoning-Group/RepoAudit)** - LLM驱动的仓库级代码审计 
 - **[secgen](https://github.com/ZJU-Automated-Reasoning-Group/secgen)** -- 神经-符号安全漏洞扫描
 - **[pafuzz](https://github.com/ZJU-Automated-Reasoning-Group/pafuzz)**  -- 静态分析器测试工具
-- **[smtfuzz](https://github.com/ZJU-Automated-Reasoning-Group/smtfuzz)** - SMT求解器模糊测试
       <hr style="margin: 4px 0;">
 - **[arlib](https://github.com/ZJU-Automated-Reasoning-Group/arlib)**  - 自动推理库
 - **[pyomt](https://github.com/ZJU-Automated-Reasoning-Group/pyomt)** - OMT求解器

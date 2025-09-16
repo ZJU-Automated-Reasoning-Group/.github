@@ -7,7 +7,6 @@
 ## 🛠️ Open-Source Projects
 
 - **[lotus](https://github.com/ZJU-Automated-Reasoning-Group/lotus)**  - Pogram analysis and verification framework
-- **[cactus](https://github.com/ZJU-Automated-Reasoning-Group/cactus)** - Point and taint analsyis for C/C++ 
 - **[efmc](https://github.com/ZJU-Automated-Reasoning-Group/efmc)**    -  SMT-based software model checker
 - **[RepoAudit++](https://github.com/ZJU-Automated-Reasoning-Group/RepoAudit)** - LLM-driven repol-level code auditor
 - **[secgen](https://github.com/ZJU-Automated-Reasoning-Group/secgen)** -- Neural-symbolic security vulnerability scanner
@@ -29,7 +28,6 @@
 ## 🛠️ 开源项目
 
 - **[lotus](https://github.com/ZJU-Automated-Reasoning-Group/lotus)**  - 程序分析与验证框架
-- **[cactus](https://github.com/ZJU-Automated-Reasoning-Group/cactus)** - C/C++指针分析、污点分析 
 - **[efmc](https://github.com/ZJU-Automated-Reasoning-Group/efmc)**    - 软件模型检查器
 - **[RepoAudit++](https://github.com/ZJU-Automated-Reasoning-Group/RepoAudit)** - LLM驱动的仓库级代码审计 
 - **[secgen](https://github.com/ZJU-Automated-Reasoning-Group/secgen)** -- 神经-符号安全漏洞扫描
